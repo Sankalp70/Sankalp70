@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankalp Ramteke</h1>
-<h3 align="center">A full stack developer with a passion for creating efficient, scalable, and user-friendly web applications. Skilled in both front-end and back-end technologies, including React, Node.js, Express, and MongoDB. Proven ability to work in fast-paced environments and collaborate effectively with cross-functional teams to deliver high-quality software solutions. eveloper from India</h3>
+<h3 align="center">A full stack developer with a passion for creating efficient, scalable, and user-friendly web applications. Skilled in both front-end and back-end technologies, including React, Node.js, Express, and MongoDB. Proven ability to work in fast-paced environments and collaborate effectively with cross-functional teams to deliver high-quality software solutions.</h3>
 
 - 🔭 I’m currently working on **Crypto Trading Web Application**
 
